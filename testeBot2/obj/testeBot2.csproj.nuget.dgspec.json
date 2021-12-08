@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaoc\\source\\repos\\testeBot2\\testeBot2.csproj": {}
+    "C:\\Users\\joaoc\\Source\\Repos\\ProjectBot\\testeBot2\\testeBot2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaoc\\source\\repos\\testeBot2\\testeBot2.csproj": {
+    "C:\\Users\\joaoc\\Source\\Repos\\ProjectBot\\testeBot2\\testeBot2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoc\\source\\repos\\testeBot2\\testeBot2.csproj",
+        "projectUniqueName": "C:\\Users\\joaoc\\Source\\Repos\\ProjectBot\\testeBot2\\testeBot2.csproj",
         "projectName": "testeBot2",
-        "projectPath": "C:\\Users\\joaoc\\source\\repos\\testeBot2\\testeBot2.csproj",
+        "projectPath": "C:\\Users\\joaoc\\Source\\Repos\\ProjectBot\\testeBot2\\testeBot2.csproj",
         "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoc\\source\\repos\\testeBot2\\obj\\",
+        "outputPath": "C:\\Users\\joaoc\\Source\\Repos\\ProjectBot\\testeBot2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,14 @@
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Microsoft.Bot.Builder": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Microsoft.Bot.Builder.Dialogs": {
+              "target": "Package",
+              "version": "[4.15.0, )"
             },
             "Microsoft.Bot.Builder.Integration.AspNet.Core": {
               "target": "Package",
